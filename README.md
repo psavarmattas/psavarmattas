@@ -3,6 +3,8 @@
 [![Website](https://img.shields.io/badge/Website-PSMForums-red?style=for-the-badge&logo=google)](https://psmforums.wordpress.com/)
 [![Twitter Follow](https://img.shields.io/badge/Twitter-gamerleague69-blue?style=for-the-badge&logo=twitter)](https://twitter.com/gamerleague69)
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=psavarmmattas.psavarmattas)
+
 ## I'm a Developer & Youtuber!!
 
 - 🔭 I have a YouTube Channel on: [learning how to code in a simple and easy manner & GamePlays!][youtube]
