@@ -57,6 +57,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Wearable Air Conditioners? [Podcast Transcription]](https://psmforums.wordpress.com/2020/07/27/wearable-air-conditioners-podcast-transcription/)
+- [How to Unlock Windows Laptop with Mi Band 3/ Mi Band 4](https://psmforums.wordpress.com/2020/06/21/how-to-unlock-windows-laptop-with-mi-band-3-mi-band-4/)
+- [25 Best MIUI 12 Features You Should Know](https://psmforums.wordpress.com/2020/06/21/25-best-miui-12-features-you-should-know/)
+- [How to Install MIUI 12 on Any Xiaomi Device](https://psmforums.wordpress.com/2020/06/21/how-to-install-miui-12-on-any-xiaomi-device/)
+- [Jabra Elite 85h Noise Cancelling Bluetooth Headphones Review: Almost the Best](https://psmforums.wordpress.com/2020/06/20/jabra-elite-85h-noise-cancelling-bluetooth-headphones-review-almost-the-best/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://psmforums.wordpress.com/)
