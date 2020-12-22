@@ -69,18 +69,14 @@
 
 <!--START_SECTION:activity-->
 <img align="left" alt="PSavarMattas's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=psavarmattas&show_icons=true&hide_border=true&theme=dark" />
+
+<img align="left" alt="PSavarMattas's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=psavarmattas&layout=compact&theme=dark&show_icons=true&hide_border=true" />
+
 <!--END_SECTION:activity-->
 
 </details>
 
 <details>
-<summary>:zap: Top Languages</summary>
-
-<!--START_SECTION:activity-->
-<img align="left" alt="PSavarMattas's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=psavarmattas&layout=compact&theme=dark&show_icons=true&hide_border=true" />
-<!--END_SECTION:activity-->
-
-</details>
 
 [website]: https://psmforums.wordpress.com/
 [twitter]: https://twitter.com/gamerleague69
