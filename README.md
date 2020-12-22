@@ -67,14 +67,14 @@
 <details>
 <summary>:zap: GitHub Stats</summary>
 
-<img align="left" alt="PSavarMattas's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=psavarmattas&show_icons=true&hide_border=true&theme=dark" />
+<img align="left" alt="PSavarMattas's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=psavarmattas&show_icons=true&hide_border=true&theme=dark" />
 
 </details>
 
 <details>
 <summary>:zap: Top Languages</summary>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psavarmattas&layout=compact)](https://github.com/psavarmattas/psavarmattas)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psavarmattas&layout=compact)](https://github.com/psavarmattas/psavarmattas&theme=radical&show_icons=true&hide_border=true)
 
 </details>
 
