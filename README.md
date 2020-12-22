@@ -1,3 +1,5 @@
+<img align="left" scr="https://github.com/psavarmattas/psavarmattas/blob/master/header.png?raw=true">
+
 ### Hi there, I'm Puranjay Savar Mattas - aka [psavarmattas][website] 👋
 
 [![Website](https://img.shields.io/badge/Website-PSMForums-red?style=for-the-badge&logo=google)](https://psmforums.wordpress.com/)
@@ -47,6 +49,7 @@
 
 
 ---
+<br/>
 
 ### Joke Of The Day:
 ![Jokes Card](https://readme-jokes.vercel.app/api)
