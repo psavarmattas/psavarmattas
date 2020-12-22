@@ -74,8 +74,6 @@
 
 <img align="left" alt="PSavarMattas's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=psavarmattas&layout=compact&theme=dark&show_icons=true&hide_border=true" />
 
-<img align="left" alt="PSavarMattas's Walktime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=psavarmattas&layout=compact&theme=dark&show_icons=true&hide_border=true" />
-
 <!--END_SECTION:activity-->
 
 [website]: https://psmforums.wordpress.com/
