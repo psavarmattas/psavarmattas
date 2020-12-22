@@ -74,10 +74,6 @@
 
 <!--END_SECTION:activity-->
 
-</details>
-
-<details>
-
 [website]: https://psmforums.wordpress.com/
 [twitter]: https://twitter.com/gamerleague69
 [youtube]: https://www.youtube.com/channel/UCCLpoIOWWKOFe1s627GwAeQ
