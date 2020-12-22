@@ -74,7 +74,7 @@
 <details>
 <summary>:zap: Top Languages</summary>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psavarmattas&layout=compact)](https://github.com/psavarmattas/psavarmattas&theme=radical&show_icons=true&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psavarmattas&layout=compact)](https://github.com/psavarmattas/psavarmattas&theme=dark&show_icons=true&hide_border=true)
 
 </details>
 
