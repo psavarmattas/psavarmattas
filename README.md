@@ -1,4 +1,4 @@
-<img align="left" scr="https://github.com/psavarmattas/psavarmattas/blob/master/header.png?raw=true">
+![Header](https://github.com/psavarmattas/psavarmattas/blob/master/header.png)
 
 ### Hi there, I'm Puranjay Savar Mattas - aka [psavarmattas][website] 👋
 
