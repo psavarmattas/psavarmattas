@@ -47,10 +47,6 @@
 <img align="left" alt="PSMForums" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
 <img align="left" alt="PSMForums" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
 
-
-<br />
-<br />
-
 ---
 
 ### Joke Of The Day:
