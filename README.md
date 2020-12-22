@@ -49,9 +49,9 @@
 
 <br />
 
----
-
 <br />
+
+---
 
 ### Joke Of The Day:
 ![Jokes Card](https://readme-jokes.vercel.app/api)
