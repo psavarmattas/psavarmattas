@@ -5,7 +5,7 @@
 
 ## I'm a Developer & Youtuber!!
 
-- 🔭 I have a YouTube Channel on: [learning how to code in a simple and easy manner!][youtube]!
+- 🔭 I have a YouTube Channel on: [learning how to code in a simple and easy manner & GamePlays!][youtube]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
