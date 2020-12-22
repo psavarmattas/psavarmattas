@@ -67,7 +67,9 @@
 <details>
 <summary>:zap: GitHub Stats</summary>
 
+<!--START_SECTION:activity-->
 <img align="left" alt="PSavarMattas's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=psavarmattas&show_icons=true&hide_border=true&theme=dark" />
+<!--END_SECTION:activity-->
 
 </details>
 
