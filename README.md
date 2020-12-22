@@ -89,6 +89,9 @@
 <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#3](https://github.com/psavarmattas/PSMBot-Virtual-Assistant/pull/3) in [psavarmattas/PSMBot-Virtual-Assistant](https://github.com/psavarmattas/PSMBot-Virtual-Assistant)
+2. 💪 Opened PR [#3](https://github.com/psavarmattas/PSMBot-Virtual-Assistant/pull/3) in [psavarmattas/PSMBot-Virtual-Assistant](https://github.com/psavarmattas/PSMBot-Virtual-Assistant)
+3. ❗️ Opened issue [#2](https://github.com/psavarmattas/PSMBot-Virtual-Assistant/issues/2) in [psavarmattas/PSMBot-Virtual-Assistant](https://github.com/psavarmattas/PSMBot-Virtual-Assistant)
 <!--END_SECTION:activity-->
 
 </details>
