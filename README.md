@@ -58,10 +58,6 @@
 <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#14](https://github.com/psavarmattas/psavarmattas/pull/14) in [psavarmattas/psavarmattas](https://github.com/psavarmattas/psavarmattas)
-2. 🗣 Commented on [#14](https://github.com/psavarmattas/psavarmattas/issues/14) in [psavarmattas/psavarmattas](https://github.com/psavarmattas/psavarmattas)
-3. ❌ Closed PR [#7](https://github.com/psavarmattas/psavarmattas/pull/7) in [psavarmattas/psavarmattas](https://github.com/psavarmattas/psavarmattas)
-4. 🎉 Merged PR [#6](https://github.com/psavarmattas/psavarmattas/pull/6) in [psavarmattas/psavarmattas](https://github.com/psavarmattas/psavarmattas)
 <!--END_SECTION:activity-->
 
 </details>
@@ -69,12 +65,11 @@
 <details>
 <summary>:zap: GitHub Stats</summary>
 
-<!--START_SECTION:activity-->
 <img align="left" alt="PSavarMattas's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=psavarmattas&show_icons=true&hide_border=true&theme=dark" />
 
 <img align="left" alt="PSavarMattas's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=psavarmattas&layout=compact&theme=dark&show_icons=true&hide_border=true" />
 
-<!--END_SECTION:activity-->
+</details>
 
 [website]: https://psmforums.wordpress.com/
 [twitter]: https://twitter.com/gamerleague69
