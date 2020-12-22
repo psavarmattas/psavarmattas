@@ -50,7 +50,7 @@
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://youtube.com/codestackr)
+➡️ [more videos...](https://www.youtube.com/channel/UCCLpoIOWWKOFe1s627GwAeQ)
 
 ---
 
