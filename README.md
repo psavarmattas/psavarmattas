@@ -65,7 +65,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [1 / 16 || Back To Back Weekly || Call Of Duty || (Gameplay 3)](https://www.youtube.com/watch?v=IOVW-WU_XH0)
+- [1 / 16 || Back To Back Daily || Call Of Duty || (Gameplay 3)](https://www.youtube.com/watch?v=IOVW-WU_XH0)
 - [PUBG INTENSE MATCH...WHO WILL WIN?!!! || PUBG Mobile Livestream](https://www.youtube.com/watch?v=5bORHQ3ELVs)
 - [HOW DID THIS HAPPEN?!!! || PUBG Mobile Livestream](https://www.youtube.com/watch?v=7YNPcWwjKxs)
 - [DON'T MISS THE LAST SHOT || PUBG Mobile Livestream](https://www.youtube.com/watch?v=E8lWEy6Fk4E)
