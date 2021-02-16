@@ -65,11 +65,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [3 / 16 || Back To Back Weekly || Call Of Duty || (Gameplay 5)](https://www.youtube.com/watch?v=g4Agvt-t-Cs)
 - [Channel Trailer (2021)](https://www.youtube.com/watch?v=KCZhhHtPFvk)
 - [2 / 16 || Back To Back Weekly || Call Of Duty || (Gameplay 4)](https://www.youtube.com/watch?v=TXXfhCxIUaE)
 - [1 / 16 || Back To Back Weekly || Call Of Duty || (Gameplay 3)](https://www.youtube.com/watch?v=IOVW-WU_XH0)
 - [PUBG INTENSE MATCH...WHO WILL WIN?!!! || PUBG Mobile Livestream](https://www.youtube.com/watch?v=5bORHQ3ELVs)
-- [HOW DID THIS HAPPEN?!!! || PUBG Mobile Livestream](https://www.youtube.com/watch?v=7YNPcWwjKxs)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCCLpoIOWWKOFe1s627GwAeQ)
