@@ -94,9 +94,9 @@
 <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2](https://github.com/psavarmattas/PSMBot-Virtual-Assistant/issues/2) in [psavarmattas/PSMBot-Virtual-Assistant](https://github.com/psavarmattas/PSMBot-Virtual-Assistant)
-2. 🗣 Commented on [#2](https://github.com/psavarmattas/PSMBot-Virtual-Assistant/issues/2) in [psavarmattas/PSMBot-Virtual-Assistant](https://github.com/psavarmattas/PSMBot-Virtual-Assistant)
-3. 🎉 Merged PR [#3](https://github.com/psavarmattas/PSMBot-Virtual-Assistant/pull/3) in [psavarmattas/PSMBot-Virtual-Assistant](https://github.com/psavarmattas/PSMBot-Virtual-Assistant)
+1. ❗️ Opened issue [#4237](https://github.com/MicrosoftDocs/live-share/issues/4237) in [MicrosoftDocs/live-share](https://github.com/MicrosoftDocs/live-share)
+2. ❗️ Closed issue [#2](https://github.com/psavarmattas/PSMBot-Virtual-Assistant/issues/2) in [psavarmattas/PSMBot-Virtual-Assistant](https://github.com/psavarmattas/PSMBot-Virtual-Assistant)
+3. 🗣 Commented on [#2](https://github.com/psavarmattas/PSMBot-Virtual-Assistant/issues/2) in [psavarmattas/PSMBot-Virtual-Assistant](https://github.com/psavarmattas/PSMBot-Virtual-Assistant)
 <!--END_SECTION:activity-->
 
 </details>
