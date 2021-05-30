@@ -65,11 +65,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [I LOVE THIS GAME NOW!!! || VALORANT || Stream 2 || GamerLeague69](https://www.youtube.com/watch?v=Zs-jAA02AKY)
 - [Learning Manual Transmission!!! || NFS MW 2005 || Stream 1 || GamerLeague69](https://www.youtube.com/watch?v=BisQYD7EllE)
 - [Manual Transmission with keyboard is not nice! || NFS MW 2005 || Clip 1 || GamerLeague69](https://www.youtube.com/watch?v=O5ehph3Pcbo)
 - [I DON'T THINK I CAN FLY!!! || GTA V || Episode 4 || GamerLeague69](https://www.youtube.com/watch?v=W1Y4qwB3qic)
 - [Welcome Trevor To Our Family || GTA V || Episode 3 || GamerLeague69](https://www.youtube.com/watch?v=qs5GaPBMQ6E)
-- [BMW ROARS ON THE ROAD!!! || NFS MW 2005 || Clip 4 || GamerLeague69](https://www.youtube.com/watch?v=clGvfodsgcg)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCCLpoIOWWKOFe1s627GwAeQ)
