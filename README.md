@@ -65,8 +65,8 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [PLAYING VALORANT FOR THE FIRST TIME!!! || VALORANT || Stream 1 || GamerLeague69](https://www.youtube.com/watch?v=qs1cDuXvWqE)
 - [I LOVE THIS GAME NOW!!! || VALORANT || Stream 2 || GamerLeague69](https://www.youtube.com/watch?v=Zs-jAA02AKY)
+- [PLAYING VALORANT FOR THE FIRST TIME!!! || VALORANT || Stream 1 || GamerLeague69](https://www.youtube.com/watch?v=qs1cDuXvWqE)
 - [Learning Manual Transmission!!! || NFS MW 2005 || Stream 1 || GamerLeague69](https://www.youtube.com/watch?v=BisQYD7EllE)
 - [Manual Transmission with keyboard is not nice! || NFS MW 2005 || Clip 1 || GamerLeague69](https://www.youtube.com/watch?v=O5ehph3Pcbo)
 - [I DON'T THINK I CAN FLY!!! || GTA V || Episode 4 || GamerLeague69](https://www.youtube.com/watch?v=W1Y4qwB3qic)
