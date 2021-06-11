@@ -65,8 +65,8 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [WE GOT TO 4th PLACE!!! || VALORANT || Stream 4 || GamerLeague69](https://www.youtube.com/watch?v=LnkKGJjjWE4)
 - [Making Donuts is IMPORTANT!!! || NFS MW 2005 || Clip 2 || GamerLeague69](https://www.youtube.com/watch?v=rQx-hKOXyAc)
-- [DEATHMATCH STREAK VALORANT!!! || VALORANT || Stream 4 || GamerLeague69](https://www.youtube.com/watch?v=LnkKGJjjWE4)
 - [DEATHMATCH GOOD IN VALORANT??? || VALORANT || Stream 3 || GamerLeague69](https://www.youtube.com/watch?v=gbkGUztLT-E)
 - [IT TOOK 8 TRIES TO COMPLETE THIS!!! || WatchDogs2 || Episode 1 || GamerLeague69](https://www.youtube.com/watch?v=wVOS1yg1PF4)
 - [I LOVE THIS GAME NOW!!! || VALORANT || Stream 2 || GamerLeague69](https://www.youtube.com/watch?v=Zs-jAA02AKY)
