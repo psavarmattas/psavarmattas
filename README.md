@@ -65,11 +65,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Welcome Trevor To Our Family || GTA V || Episode 3 || GamerLeague69](https://www.youtube.com/watch?v=qs5GaPBMQ6E)
 - [WE GOT TO 4th PLACE!!! || VALORANT || Stream 4 || GamerLeague69](https://www.youtube.com/watch?v=LnkKGJjjWE4)
 - [Making Donuts is IMPORTANT!!! || NFS MW 2005 || Clip 2 || GamerLeague69](https://www.youtube.com/watch?v=rQx-hKOXyAc)
 - [DEATHMATCH GOOD IN VALORANT??? || VALORANT || Stream 3 || GamerLeague69](https://www.youtube.com/watch?v=gbkGUztLT-E)
 - [IT TOOK 8 TRIES TO COMPLETE THIS!!! || WatchDogs2 || Episode 1 || GamerLeague69](https://www.youtube.com/watch?v=wVOS1yg1PF4)
-- [I LOVE THIS GAME NOW!!! || VALORANT || Stream 2 || GamerLeague69](https://www.youtube.com/watch?v=Zs-jAA02AKY)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCCLpoIOWWKOFe1s627GwAeQ)
