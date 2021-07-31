@@ -65,11 +65,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [EPIC BATTLE!!! || VALORANT || Stream 6 || GamerLeague69](https://www.youtube.com/watch?v=OryTqLqQQec)
 - [THINK ABOUT IT!!! || VALORANT || Stream 5 || GamerLeague69](https://www.youtube.com/watch?v=I3sYnEcpWR0)
 - [BMW ROARS ON THE ROAD!!! || NFS MW 2005 || Clip 4 || GamerLeague69](https://www.youtube.com/watch?v=clGvfodsgcg)
 - [ABOVE 100 MPH IN A MUSTANG!!! || NFS MW 2005 || Clip 3 || GamerLeague69](https://www.youtube.com/watch?v=z8FArr1WBm8)
 - [Welcome Trevor To Our Family || GTA V || Episode 3 || GamerLeague69](https://www.youtube.com/watch?v=qs5GaPBMQ6E)
+- [WE GOT TO 4th PLACE!!! || VALORANT || Stream 4 || GamerLeague69](https://www.youtube.com/watch?v=LnkKGJjjWE4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCCLpoIOWWKOFe1s627GwAeQ)
