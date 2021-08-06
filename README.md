@@ -65,7 +65,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [IT'S MY FIRST TIME!!! || BGMI || Stream 1 || GamerLeague69](https://www.youtube.com/watch?v=mkJc1Ckibc0)
+- [DEATHMATCH IT IS!!! || VALORANT || Stream 8 || GamerLeague69](https://www.youtube.com/watch?v=cgp0WsgCz3I)
 - [I DON'T THINK I CAN FLY!!! || GTA V || Episode 4 || GamerLeague69](https://www.youtube.com/watch?v=DxAt4b7bbi0)
 - [MAX IT OUT!!! || VALORANT || Stream 7 || GamerLeague69](https://www.youtube.com/watch?v=OxynHph1pIk)
 - [EPIC BATTLE!!! || VALORANT || Stream 6 || GamerLeague69](https://www.youtube.com/watch?v=OryTqLqQQec)
