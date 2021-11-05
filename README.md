@@ -34,6 +34,9 @@
 | <img align="left" alt="PSMForums" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> | <img align="left" alt="PSMForums" src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/> | <img align="left" alt="PSMForums" src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white"/> | <img align="left" alt="PSMForums" src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/> |
 | <img align="left" alt="PSMForums" src="https://img.shields.io/badge/adobe%20illustrator%20-%23FF9A00.svg?&style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/> | <img align="left" alt="PSMForums" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> | <img align="left" alt="PSMForums" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/> | <img align="left" alt="PSMForums" src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/> |
 | <img align="left" alt="PSMForums" src="https://img.shields.io/badge/Google%20Cloud%20-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white"/> | <img align="left" alt="PSMForums" src="https://img.shields.io/badge/azure%20-%230072C6.svg?&style=for-the-badge&logo=azure-devops&logoColor=white"/> | <img align="left" alt="PSMForums" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/> | <img align="left" alt="PSMForums" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" /> |
+| <img align="left" alt="PSMForums" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"> | <img align="left" alt="PSMForums" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"> | <img align="left" alt="PSMForums" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"> " | <img align="left" alt="PSMForums" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"> | 
+| <img align="left" alt="PSMForums" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"> | <img align="left" alt="PSMForums" src="https://img.shields.io/badge/YouTube_Gaming-FF0000?style=for-the-badge&logo=youtube-gaming&logoColor=white"> | <img align="left" alt="PSMForums" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> | <img align="left" alt="PSMForums" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"> | 
+| <img align="left" alt="PSMForums" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"> | <img align="left" alt="PSMForums" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"> | <img align="left" alt="PSMForums" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"> | <img align="left" alt="PSMForums" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"> |
 
 <br />
 
@@ -41,12 +44,6 @@
 
 <br />
 
-### Joke Of The Day:
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
-
-### Meme Of The Day:
-<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page is the meme doesn't show up.">
 
 ---
 
