@@ -65,11 +65,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [PUBG INTENSE MATCH...WHO WILL WIN?!!! || PUBG Mobile Livestream](https://www.youtube.com/watch?v=5bORHQ3ELVs)
-- [HOW DID THIS HAPPEN?!!! || PUBG Mobile Livestream](https://www.youtube.com/watch?v=7YNPcWwjKxs)
-- [DON'T MISS THE LAST SHOT || PUBG Mobile Livestream](https://www.youtube.com/watch?v=E8lWEy6Fk4E)
-- [PUBG LOVERS WILL WATCH THIS LIVESTREAM || PUBG Mobile Livestream](https://www.youtube.com/watch?v=tXC4U1OJt4I)
-- [Well is this is what HAPPENED in BATTLE ROYALE in COD Mobile || Call Of Duty Mobile Livestream](https://www.youtube.com/watch?v=bi_U9L7U-8g)
+- [THAT'S SO UNRATED!!! || VALORANT || Stream 9 || GamerLeague69](https://www.youtube.com/watch?v=VIIx_LUj_JQ)
+- [DEATHMATCH IT IS!!! || VALORANT || Stream 8 || GamerLeague69](https://www.youtube.com/watch?v=cgp0WsgCz3I)
+- [I DON'T THINK I CAN FLY!!! || GTA V || Episode 4 || GamerLeague69](https://www.youtube.com/watch?v=DxAt4b7bbi0)
+- [MAX IT OUT!!! || VALORANT || Stream 7 || GamerLeague69](https://www.youtube.com/watch?v=OxynHph1pIk)
+- [EPIC BATTLE!!! || VALORANT || Stream 6 || GamerLeague69](https://www.youtube.com/watch?v=OryTqLqQQec)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCCLpoIOWWKOFe1s627GwAeQ)
@@ -94,9 +94,9 @@
 <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/psavarmattas/PSMBot-Virtual-Assistant/pull/3) in [psavarmattas/PSMBot-Virtual-Assistant](https://github.com/psavarmattas/PSMBot-Virtual-Assistant)
-2. 💪 Opened PR [#3](https://github.com/psavarmattas/PSMBot-Virtual-Assistant/pull/3) in [psavarmattas/PSMBot-Virtual-Assistant](https://github.com/psavarmattas/PSMBot-Virtual-Assistant)
-3. ❗️ Opened issue [#2](https://github.com/psavarmattas/PSMBot-Virtual-Assistant/issues/2) in [psavarmattas/PSMBot-Virtual-Assistant](https://github.com/psavarmattas/PSMBot-Virtual-Assistant)
+1. ❗️ Opened issue [#4237](https://github.com/MicrosoftDocs/live-share/issues/4237) in [MicrosoftDocs/live-share](https://github.com/MicrosoftDocs/live-share)
+2. ❗️ Closed issue [#2](https://github.com/psavarmattas/PSMBot-Virtual-Assistant/issues/2) in [psavarmattas/PSMBot-Virtual-Assistant](https://github.com/psavarmattas/PSMBot-Virtual-Assistant)
+3. 🗣 Commented on [#2](https://github.com/psavarmattas/PSMBot-Virtual-Assistant/issues/2) in [psavarmattas/PSMBot-Virtual-Assistant](https://github.com/psavarmattas/PSMBot-Virtual-Assistant)
 <!--END_SECTION:activity-->
 
 </details>
