@@ -50,11 +50,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [COMING BACK WITH A DEATHMATCH!!! || VALORANT || Stream 11 || GamerLeague69](https://www.youtube.com/watch?v=LdQZjjVa0ow)
 - [WE ARE BACK!!! || VALORANT || Stream 10 || GamerLeague69](https://www.youtube.com/watch?v=kevw2FD3H4g)
 - [THAT&#39;S SO UNRATED!!! || VALORANT || Stream 9 || GamerLeague69](https://www.youtube.com/watch?v=VIIx_LUj_JQ)
 - [DEATHMATCH IT IS!!! || VALORANT || Stream 8 || GamerLeague69](https://www.youtube.com/watch?v=cgp0WsgCz3I)
 - [I DON&#39;T THINK I CAN FLY!!! || GTA V || Episode 4 || GamerLeague69](https://www.youtube.com/watch?v=DxAt4b7bbi0)
-- [MAX IT OUT!!! || VALORANT || Stream 7 || GamerLeague69](https://www.youtube.com/watch?v=OxynHph1pIk)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCCLpoIOWWKOFe1s627GwAeQ)
