@@ -50,10 +50,10 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Episode 1 || Sub Nautica Below Zero || GamerLeague69](https://www.youtube.com/watch?v=2CI_yvQ3g44)
 - [WINNING THIS TIME IG😂😂!!! || VALORANT || Stream 13 || GamerLeague69](https://www.youtube.com/watch?v=iFiJGbXXXaM)
 - [LET&#39;S GO PRO!!! || PUBG PC || Stream 2 || GamerLeague69](https://www.youtube.com/watch?v=qHPFb__cNSk)
 - [MY GOD I&#39;M PLAYING WELL!!! || VALORANT || Stream 12 || GamerLeague69](https://www.youtube.com/watch?v=FZPupPXgrOY)
-- [Episode 1 || Sub Nautica Below Zero || GamerLeague69](https://www.youtube.com/watch?v=2CI_yvQ3g44)
 - [IT&#39;S FREEEEEE?! I CAN&#39;T BELIEVE MY EYES😨😨!!! || PUBG PC || Stream 1 || GamerLeague69](https://www.youtube.com/watch?v=YZCWgdOH1oI)
 <!-- YOUTUBE:END -->
 
