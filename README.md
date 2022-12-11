@@ -7,7 +7,7 @@
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=psavarmattas&label=VISITORS&labelColor=%2337d67a&countColor=%23555555&labelStyle=upper)](https://visitorbadge.io/status?path=psavarmattas)
 
-`P.S. The previous visitor counter broke :exclamation: :x: :exclamation: I have to start a new one again :disappointed:`
+`P.S. The previous visitor counter broke I have to start a new one again!`
 
 ## I'm a Developer & Youtuber!!
 
