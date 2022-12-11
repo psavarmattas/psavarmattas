@@ -12,14 +12,14 @@
 - 🔭 I have a YouTube Channel on: [learning how to code in a simple and easy manner & GamePlays!][youtube]
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I am a avid listener. 
 
 
 ### Connect with me:
 
 [<img align="left" alt="PSMForums" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="gamerleague69 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Social Sangam | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Gamerleague69 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="gamerleague69 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
@@ -50,14 +50,14 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [THAT'S SO UNRATED!!! || VALORANT || Stream 9 || GamerLeague69](https://www.youtube.com/watch?v=VIIx_LUj_JQ)
-- [DEATHMATCH IT IS!!! || VALORANT || Stream 8 || GamerLeague69](https://www.youtube.com/watch?v=cgp0WsgCz3I)
-- [I DON'T THINK I CAN FLY!!! || GTA V || Episode 4 || GamerLeague69](https://www.youtube.com/watch?v=DxAt4b7bbi0)
-- [MAX IT OUT!!! || VALORANT || Stream 7 || GamerLeague69](https://www.youtube.com/watch?v=OxynHph1pIk)
+- [Hello & Welcome || Introductory Episode || Python With PSM || Social Sangam](https://youtu.be/DX_fDaNVOx8)
+- [Money & Credit || Part 1 || Class X Economics || Social Sangam](https://youtu.be/1ITCOIcOF8E)
+- [How To Attempt The CBSE Paper - A Complete Walkthrough || Episode 1 || Social Sangam](https://youtu.be/z04DmNUfJLE)
+- [Let's Say Hello!!! || Introductory Episode || Social Sangam](https://youtu.be/u2Qo_Zp5kNk)
 - [EPIC BATTLE!!! || VALORANT || Stream 6 || GamerLeague69](https://www.youtube.com/watch?v=OryTqLqQQec)
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://www.youtube.com/channel/UCCLpoIOWWKOFe1s627GwAeQ)
+➡️ [more videos...](https://www.youtube.com/@socialsangam)
 
 ---
 
@@ -97,5 +97,5 @@
 
 [website]: https://psmforums.wordpress.com/
 [twitter]: https://twitter.com/gamerleague69
-[youtube]: https://www.youtube.com/channel/UCCLpoIOWWKOFe1s627GwAeQ
+[youtube]: https://www.youtube.com/@socialsangam
 [instagram]: https://instagram.com/gamerleague69
