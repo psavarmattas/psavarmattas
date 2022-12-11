@@ -20,19 +20,12 @@ on:
 #           MAX_LINES: 10
 
 jobs:
-  publish:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@master
-        with:
-          persist-credentials: false
-          fetch-depth: 0
-      - name: Create README.md
-        uses: actions-js/profile-readme@master
-        with:
-          username: psavarmattas
-          github_token: ${{ secrets.SuperSecret }}
-      - name: Commit & Push changes
-        uses: actions-js/push@master
-        with:
-          github_token: ${{ secrets.SuperSecret }}
+    update-readme-with-anilist:
+        name: Update this repo's README with latest AniList activites
+        runs-on: ubuntu-latest
+        steps:
+            - uses: actions/checkout@v2
+            - name: AniList readme workflow
+              uses: pxseu/anilist-readme@v1.4.2
+              with:
+                  user_id: YOUR_USER_ID
