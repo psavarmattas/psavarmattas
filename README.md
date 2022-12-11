@@ -50,10 +50,10 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Hello & Welcome || Introductory Episode || Python With PSM || Social Sangam](https://youtu.be/DX_fDaNVOx8)
-- [Money & Credit || Part 1 || Class X Economics || Social Sangam](https://youtu.be/1ITCOIcOF8E)
-- [How To Attempt The CBSE Paper - A Complete Walkthrough || Episode 1 || Social Sangam](https://youtu.be/z04DmNUfJLE)
-- [Let's Say Hello!!! || Introductory Episode || Social Sangam](https://youtu.be/u2Qo_Zp5kNk)
+- [THAT'S SO UNRATED!!! || VALORANT || Stream 9 || GamerLeague69](https://www.youtube.com/watch?v=VIIx_LUj_JQ)
+- [DEATHMATCH IT IS!!! || VALORANT || Stream 8 || GamerLeague69](https://www.youtube.com/watch?v=cgp0WsgCz3I)
+- [I DON'T THINK I CAN FLY!!! || GTA V || Episode 4 || GamerLeague69](https://www.youtube.com/watch?v=DxAt4b7bbi0)
+- [MAX IT OUT!!! || VALORANT || Stream 7 || GamerLeague69](https://www.youtube.com/watch?v=OxynHph1pIk)
 - [EPIC BATTLE!!! || VALORANT || Stream 6 || GamerLeague69](https://www.youtube.com/watch?v=OryTqLqQQec)
 <!-- YOUTUBE:END -->
 
