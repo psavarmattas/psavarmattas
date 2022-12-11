@@ -76,26 +76,6 @@
 
 ---
 
-<details>
-<summary>:zap: Recent GitHub Activity</summary>
-
-<!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4237](https://github.com/MicrosoftDocs/live-share/issues/4237) in [MicrosoftDocs/live-share](https://github.com/MicrosoftDocs/live-share)
-2. ❗️ Closed issue [#2](https://github.com/psavarmattas/PSMBot-Virtual-Assistant/issues/2) in [psavarmattas/PSMBot-Virtual-Assistant](https://github.com/psavarmattas/PSMBot-Virtual-Assistant)
-3. 🗣 Commented on [#2](https://github.com/psavarmattas/PSMBot-Virtual-Assistant/issues/2) in [psavarmattas/PSMBot-Virtual-Assistant](https://github.com/psavarmattas/PSMBot-Virtual-Assistant)
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
-<summary>:zap: GitHub Stats</summary>
-
-<img align="left" alt="PSavarMattas's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=psavarmattas&show_icons=true&hide_border=true&theme=dark" />
-
-<img align="left" alt="PSavarMattas's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=psavarmattas&layout=compact&theme=dark&show_icons=true&hide_border=true" />
-
-</details>
-
 [website]: https://psmforums.wordpress.com/
 [twitter]: https://twitter.com/gamerleague69
 [youtube]: https://www.youtube.com/@socialsangam
