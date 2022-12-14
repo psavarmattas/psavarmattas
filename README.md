@@ -52,6 +52,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Computer System Overview || Part 1 || Class XI Computer Science || Social Sangam](https://www.youtube.com/watch?v=fFAS2mT82zk)
 - [Money &amp; Credit || Part 1 ||  Class X Economics || Social Sangam](https://www.youtube.com/watch?v=1ITCOIcOF8E)
 - [Hello &amp; Welcome || Introductory Episode || Python With PSM || Social Sangam](https://www.youtube.com/watch?v=DX_fDaNVOx8)
 - [How To Attempt The CBSE Paper - A Complete Walkthrough || Social Sangam](https://www.youtube.com/watch?v=z04DmNUfJLE)
