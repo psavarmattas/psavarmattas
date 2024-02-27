@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on [Custom Roms (AOSP Projects)](https://sourceforge.net/u/psmattas/profile)
 
-- 👨‍💻 All of my projects are available at [https://github.com/psavarmattas?tab=repositories](https://github.com/psavarmattas?tab=repositories)
+- 👨‍💻 See all my projects on my [portfolio](https://psavarmattas.wordpress.com)
 
-- 📝 I regularly write articles on [https://psmforums.wordpress.com](https://psmforums.wordpress.com)
+- 📝 I regularly write articles on [my blog](https://psmforums.wordpress.com)
 
 - 💬 Ask me about **Python, AOSP, etc.**
 
