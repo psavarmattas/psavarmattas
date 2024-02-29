@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=psavarmattas" alt="psavarmattas" /></a> </p>
 
-<p align="left"> <a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=psmattas" target="_blank">Follow on LinkedIn</a></p>
-
 - 🔭 I’m currently working on [Custom Roms (AOSP Projects)](https://sourceforge.net/u/psmattas/profile)
 
 - 👨‍💻 See all my projects on my [portfolio](https://psavarmattas.wordpress.com)
