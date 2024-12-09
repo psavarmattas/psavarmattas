@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=psavarmattas" alt="psavarmattas" /></a> </p>
 
-- 🔭 I’m currently working on [Custom Roms (AOSP Projects)](https://sourceforge.net/u/psmattas/profile)
+- 🔭 I’m currently working as a Research Engineer/Assistant Lecturer at [TUS Ireland](https://tus.ie/)
 
 - 👨‍💻 See all my projects on my [portfolio](https://psavarmattas.wordpress.com)
 
 - 📝 I regularly write articles on [my blog](https://psmforums.wordpress.com)
 
-- 💬 Ask me about **Python, AOSP, etc.**
+- 💬 Ask me about **Python, AOSP, AI, ML, etc.**
 
 - 📫 How to reach me **puranjaysavarmattas@gmail.com**
 
